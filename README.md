@@ -6,7 +6,7 @@ Through this project I learnt the fundamentals of HTML and how to make a website
 2. How to add a title.
 3. How to add a header.
 4. How to make paragraphs.
-5. How to make ordered an Unordered list.
+5. How to make ordered and Unordered list.
 6. How to make a homepage.
 7. How to link other pages.
 8. How to link images.
